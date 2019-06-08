@@ -3,8 +3,8 @@ create dataset and train the dataset then face recognise by Open CV
 
 Execute in This Order
 
-1.dataset
+1.Dataset.py
 
-2.trainning
+2.trainning.py
 
-3.detect
+3.detector.py
